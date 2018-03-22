@@ -10,7 +10,7 @@ class Result
   end
 
   def print_result(test)
-  	puts "По результатам теста вы набрали #{test.points} очков."
+    puts "По результатам теста вы набрали #{test.points} очков."
     sleep 1
     puts "Ваш диагноз по мнению господина В.Ф. Ряховского:\n"
 
